@@ -1,0 +1,16 @@
+Category,0,1,Information
+sex,Female,Male,
+pneumonia,No,Yes,
+diabetes,No,Yes,
+copd,No,Yes,Chronic Obstructive Pulmonary Disease
+asthma,No,Yes,
+inmsupr,No,Yes,Immunosuppression: suppression of the body's immune system and its ability to fight infections and other diseases
+hypertension,No,Yes,
+other_disease,No,Yes,
+cardiovascular,No,Yes,
+obesity,No,Yes,obesity is diagnosed when your BMI is 30 or higher
+renal_chronic,No,Yes,Chronic kidney disease
+tobacco,No,Yes,
+icu,No,Yes,
+patient_type,Outpatient,Hospitalized,
+
